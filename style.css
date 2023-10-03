@@ -1,0 +1,28 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+#navbar-1 {
+width: 100%;
+height: 80px;
+box-shadow: 0 4px 70px rgba(0, 0, 0, .1);
+background-color: #A0C1D1;
+}
+.navbar-collapse {
+background-color: #A0C1D1;
+}
+#navbar-brand {
+font-weight:bold;
+font-size: 30px;
+text-decoration: none;
+color: #4e97bc;
+}
+.block-wrap {
+background-color: #dcf0fa;
+box-shadow: 0 4px 70px rgba(0, 0, 0, .1);
+}
+.block-wrap h3 {
+color: #1c4154;
+}
+footer ul li a {
+text-decoration: none;
+}
